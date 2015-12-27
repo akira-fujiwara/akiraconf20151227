@@ -1,0 +1,8 @@
+    applications:
+    - name: akiraconf20151227
+      host: akiraconf20151227
+      disk: 1024M
+      path: .
+      domain: mybluemix.net
+      mem: 128M
+      instances: 1
